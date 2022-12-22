@@ -1,5 +1,6 @@
 # grpc-demo
-Playing with grpc
+### Played with grpc, implemented the following;
+
 
 Unary - Demo
 
